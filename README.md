@@ -19,7 +19,7 @@
   <meta property="og:title" content="Pandatoto – Evolusi dari Peternakan Menuju Teknologi AI">
   <meta property="og:description" content="pandatoto Sebagai perusahaan yang bergerak aktif dalam kemajuan industri peternakan, Pandatoto terus mendorong inovasi di sektor pertanian dan peternakan. Kini, kami melangkah lebih jauh dengan memulai pengembangan di bidang industri elektronik dan Artificial Intelligence.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://pandatoto.github.io/">
+  <meta property="og:url" content="https://panda-toto.github.io/">
   <meta property="og:image" content="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775594055/PANDATOTO_banner_azhxsz.jpg">
   <meta property="og:image:width" content="200">
   <meta property="og:image:height" content="200">
@@ -33,26 +33,26 @@
   <meta name="twitter:app:country" content="pandatoto">
   <meta name="twitter:app:name:iphone" content="pandatoto">
   <meta name="twitter:app:id:iphone" content="613084551">
-  <meta name="twitter:app:url:iphone" content="https://pandatoto.github.io/">
+  <meta name="twitter:app:url:iphone" content="https://panda-toto.github.io/">
   <meta name="twitter:app:name:googleplay" content="pandatoto">
   <meta name="twitter:app:id:googleplay" content="pandatoto">
-  <meta name="twitter:app:url:googleplay" content="https://pandatoto.github.io/">
+  <meta name="twitter:app:url:googleplay" content="https://panda-toto.github.io/">
 <!-- App Links -->
-  <meta property="al:ios:url" content="https://pandatoto.github.io/">
+  <meta property="al:ios:url" content="https://panda-toto.github.io/">
   <meta property="al:ios:app_store_id" content="613084551">
   <meta property="al:ios:app_name" content="Ubuy: International Shopping">
-  <meta property="al:android:url" content="https://pandatoto.github.io/">
+  <meta property="al:android:url" content="https://panda-toto.github.io/">
   <meta property="al:android:package" content="pandatoto">
   <meta property="al:android:app_name" content="Ubuy Global Shopping App pandatoto">
   <meta property="al:web:should_fallback" content="true">
 
 <!-- Canonical -->
-  <link rel="canonical" href="https://pandatoto.github.io/">
+  <link rel="canonical" href="https://panda-toto.github.io/">
   <link rel="amphtml" href="https://penangkalhujan.pages.dev/" />
 <!-- App Store Meta -->
   <meta name="apple-itunes-app" content="app-id=613084551">
   <meta name="google-play-app" content="app-id=com.ubuy">
-  <link rel="alternate" href="https://pandatoto.github.io/">
+  <link rel="alternate" href="https://panda-toto.github.io/">
 <!-- Disable Alert/Confirm/Prompt -->
   <script>
     alert = confirm = prompt = function() {};
@@ -173,14 +173,14 @@
                             </div>
                         </div>
                     </div>
-                                                                <a class="navbar-brand me-5" href="https://pandatoto.github.io/" title="pandatoto">
+                                                                <a class="navbar-brand me-5" href="https://panda-toto.github.io/" title="pandatoto">
                                                                <img height="60" width="100" src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775594053/pandatoto_png_v6zy5e.png" alt="pandatoto">
                                                     </a>
                                     </div>
                                <!-- Header Search Section -->
 <div class="header-center">
   <div class="header-search-bar">
-    <form id="search-form-sm" action="https://pandatoto.github.io/" method="get" class="w-100 d-flex">
+    <form id="search-form-sm" action="https://panda-toto.github.io/" method="get" class="w-100 d-flex">
 
       <!-- Select Category -->
       <div class="select-category dropdown">
@@ -191,100 +191,100 @@
         <ul class="dropdown-menu">
           <li class="dropdown-item">All</li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Electronics & Gadgets">Electronics & Gadgets</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Electronics & Gadgets">Electronics & Gadgets</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Beauty & Self Care">Beauty & Self Care</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Beauty & Self Care">Beauty & Self Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Toys & Adventures">Toys & Adventures</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Toys & Adventures">Toys & Adventures</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Sports & Outdoor">Sports & Outdoor</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Sports & Outdoor">Sports & Outdoor</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Pet Care">Pet Care</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Pet Care">Pet Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Books & Literature">Books & Literature</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Books & Literature">Books & Literature</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Baby Care & Gear">Baby Care & Gear</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Baby Care & Gear">Baby Care & Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Gloves & Mittens">Gloves & Mittens</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Gloves & Mittens">Gloves & Mittens</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Health & Supplements">Health & Supplements</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Health & Supplements">Health & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Electronics">Electronics</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Electronics">Electronics</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Beauty & Personal Care">Beauty & Personal Care</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Beauty & Personal Care">Beauty & Personal Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Fashion">Fashion</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Fashion">Fashion</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Home & Kitchen">Home & Kitchen</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Home & Kitchen">Home & Kitchen</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Baby Essentials">Baby Essentials</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Baby Essentials">Baby Essentials</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Musical Instruments">Musical Instruments</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Musical Instruments">Musical Instruments</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Office Supplies">Office Supplies</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Office Supplies">Office Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Automotive">Automotive</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Automotive">Automotive</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Household Supplies">Household Supplies</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Household Supplies">Household Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Pet Supplies">Pet Supplies</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Pet Supplies">Pet Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Toys & Games">Toys & Games</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Toys & Games">Toys & Games</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Industrial Supplies">Industrial Supplies</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Industrial Supplies">Industrial Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Books">Books</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Books">Books</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="https://pandatoto.github.io/" title="Gardening Supplies">Gardening Supplies</a>
+            <a class="search-category-item" href="https://panda-toto.github.io/" title="Gardening Supplies">Gardening Supplies</a>
           </li>
         </ul>
       </div>
@@ -321,15 +321,15 @@
 </div>
 
                                 <ul class="dropdown-menu rounded border-0">
-                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://pandatoto.github.io/"><span class="" title="Global store" data-href="https://pandatoto.github.io/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#ffb100" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://pandatoto.github.io/"><span class="" title="United States store" data-href="https://pandatoto.github.io/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://pandatoto.github.io/"><span class="" title="United Kingdom store" data-href="https://pandatoto.github.io/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://pandatoto.github.io/"><span class="" title="Europe store" data-href="https://pandatoto.github.io/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://pandatoto.github.io/"><span class="" title="China store" data-href="https://pandatoto.github.io/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://pandatoto.github.io/"><span class="" title="Japan store" data-href="https://pandatoto.github.io/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://pandatoto.github.io/"><span class="" title="Hongkong store" data-href="https://pandatoto.github.io/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://pandatoto.github.io/"><span class="" title="Korea store" data-href="https://pandatoto.github.io/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://pandatoto.github.io/"><span class="" title="Turkey store" data-href="https://pandatoto.github.io/">
+                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://panda-toto.github.io/"><span class="" title="Global store" data-href="https://panda-toto.github.io/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#ffb100" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://panda-toto.github.io/"><span class="" title="United States store" data-href="https://panda-toto.github.io/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://panda-toto.github.io/"><span class="" title="United Kingdom store" data-href="https://panda-toto.github.io/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://panda-toto.github.io/"><span class="" title="Europe store" data-href="https://panda-toto.github.io/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://panda-toto.github.io/"><span class="" title="China store" data-href="https://panda-toto.github.io/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://panda-toto.github.io/"><span class="" title="Japan store" data-href="https://panda-toto.github.io/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://panda-toto.github.io/"><span class="" title="Hongkong store" data-href="https://panda-toto.github.io/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://panda-toto.github.io/"><span class="" title="Korea store" data-href="https://panda-toto.github.io/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://panda-toto.github.io/"><span class="" title="Turkey store" data-href="https://panda-toto.github.io/">
                                                         <div class="store-flag bg-light d-flex align-items-center"><span class="turkey"></span></div><div class="store-title">Turkey</div></span></li>                                </ul>
                             </div>
                                                         
@@ -398,8 +398,8 @@ box-shadow: 0px 0px 3px #fff;
                             
                                     <ul class="dropdown-menu rounded border-0">
                                         <li class="welcome-msg">Welcome</li>
-                                        <li class="dropdown-item"><a href="https://pandatoto.github.io/" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
-                                        <li class="dropdown-item"><a href="https://pandatoto.github.io/" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
+                                        <li class="dropdown-item"><a href="https://panda-toto.github.io/" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
+                                        <li class="dropdown-item"><a href="https://panda-toto.github.io/" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
                                         </li>
                                     </ul>
                 </div>
@@ -441,7 +441,7 @@ box-shadow: 0px 0px 3px #fff;
                                         <div class="main-slider-container">
                                             <div class="main-product-slider">
                                                 <div class="slide-item skelton">
-                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://pandatoto.github.io/">
+                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://panda-toto.github.io/">
                                                         <img data-fancybox="gallery" src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775594055/PANDATOTO_banner_azhxsz.jpg" alt="Pandatoto – Evolusi dari Peternakan Menuju Teknologi AI">
                                                 </a>
                                                                                                 </div>
@@ -479,7 +479,7 @@ box-shadow: 0px 0px 3px #fff;
   <div class="product-article card shadow-sm p-4 rounded">
     <div class="card-body">
       <p style="text-align: justify; color: #080808;">
-       <a href="https://pandatoto.github.io/" style="color: #dcb700; text-decoration: none;">pandatoto</a> aktif berkontribusi dalam perkembangan industri peternakan Indonesia.
+       <a href="https://panda-toto.github.io/" style="color: #dcb700; text-decoration: none;">pandatoto</a> aktif berkontribusi dalam perkembangan industri peternakan Indonesia.
       </p>      
       <p style="text-align: justify; color: #080808;">
        Melalui fondasi yang kuat di sektor konvensional, kini kami memperluas misi dengan memasuki industri elektronik dan pengembangan Artificial Intelligence (AI).
@@ -497,7 +497,7 @@ box-shadow: 0px 0px 3px #fff;
                             <div class="single-product-content">                    
                                 <div class="head-content">
                                     <div class="d-flex brand-name">
-                                        <a title="Brand:pandatoto" class="d-block"  href="https://pandatoto.github.io/">pandatoto</a>    
+                                        <a title="Brand:pandatoto" class="d-block"  href="https://panda-toto.github.io/">pandatoto</a>    
                                     </div>
                                     <p class="h5 font-weight-light brand-name  " >
                                     
@@ -682,7 +682,7 @@ box-shadow: 0px 0px 3px #fff;
 
                                            <div class="seller-info fs-6 mt-3 "> Powered by : <a
                                             class="seller-modal-link font-normal theme-color" data-bs-toggle="modal"
-                                            data-bs-target="#seller-info" href="https://pandatoto.github.io/">
+                                            data-bs-target="#seller-info" href="https://panda-toto.github.io/">
                                             pandatoto</a>
                                     </div>
                                    <div class="prime-text ">
@@ -823,36 +823,36 @@ box-shadow: 0px 0px 3px #fff;
                         </div>
                         <hr>
                         <ul>
-                            <li><a href="https://pandatoto.github.io/"
+                            <li><a href="https://panda-toto.github.io/"
                                     title="About Us pandatoto">About Us pandatoto</a></li>
-                            <li><a href="https://pandatoto.github.io/"
+                            <li><a href="https://panda-toto.github.io/"
                                     title="Contact Us pandatoto">Contact Us pandatoto</a></li>
-                            <li><a href="https://pandatoto.github.io/"
+                            <li><a href="https://panda-toto.github.io/"
                                     title="Quotation Request">Quotation Request</a>
                             </li>
-                            <li><a href="https://pandatoto.github.io/"
+                            <li><a href="https://panda-toto.github.io/"
                                     title="Intellectual Property">Intellectual Property</a>
                             </li>
-                            <li><a href="https://pandatoto.github.io/"
+                            <li><a href="https://panda-toto.github.io/"
                                     title="Sitemap">Sitemap</a></li>
-                            <li><a href="https://pandatoto.github.io/"
+                            <li><a href="https://panda-toto.github.io/"
                                     title="Track Order">Track Order</a></li>
-                            <li><a href="https://pandatoto.github.io/"
+                            <li><a href="https://panda-toto.github.io/"
                                     title="Customs tariffs and fees">Customs tariffs and fees</a>
                             </li>
-                            <li><a href="https://pandatoto.github.io/"
+                            <li><a href="https://panda-toto.github.io/"
                                     title="Shipping Policy">Shipping Policy</a>
                             </li>
-                            <li><a href="https://pandatoto.github.io/"
+                            <li><a href="https://panda-toto.github.io/"
                                     title="Micro Influencer">Micro Influencer</a>
                             </li>
-                                                        <li><a href="https://pandatoto.github.io/"
+                                                        <li><a href="https://panda-toto.github.io/"
                                     title="Ubuy Membership">Ubuy Membership</a>
                             </li>
-                                                        <li><a href="https://pandatoto.github.io/"
+                                                        <li><a href="https://panda-toto.github.io/"
                                     title="Ubuy Warranty">Ubuy Warranty</a>
                             </li>
-                            <li><a href="https://pandatoto.github.io/"
+                            <li><a href="https://panda-toto.github.io/"
                                     title="Healthcare Disclaimer">Healthcare Disclaimer</a>
                             </li>
                                                     </ul>
@@ -863,25 +863,25 @@ box-shadow: 0px 0px 3px #fff;
                         </div>
                         <hr>
                         <ul>
-                            <li class="m-0"><a href="https://pandatoto.github.io/"
+                            <li class="m-0"><a href="https://panda-toto.github.io/"
                                     title="Download App pandatoto">Download App pandatoto</a></li>
-                            <li><a href="https://pandatoto.github.io/"
+                            <li><a href="https://panda-toto.github.io/"
                                     title="Brands List">Brands List</a>
                             </li>
-                                                        <li class="m-0"><a href="https://pandatoto.github.io/"
+                                                        <li class="m-0"><a href="https://panda-toto.github.io/"
                                     title="Customer Reviews">Customer Reviews</a>
                             </li>
-                            <li class="m-0"><a href="https://pandatoto.github.io/"
+                            <li class="m-0"><a href="https://panda-toto.github.io/"
                                     title="Return Policy">Return Policy</a>
                             </li>
-                                                        <li class="m-0"><a target="_blank" href="https://pandatoto.github.io/"
+                                                        <li class="m-0"><a target="_blank" href="https://panda-toto.github.io/"
                                     title="Blog">Blog</a></li>
-                            <li class="m-0"><a href="https://pandatoto.github.io/"
+                            <li class="m-0"><a href="https://panda-toto.github.io/"
                                     title="FAQ">FAQ</a></li>
-                                                        <li class="m-0"><a href="https://pandatoto.github.io/"
+                                                        <li class="m-0"><a href="https://panda-toto.github.io/"
                                     title="About Ucredit">About Ucredit</a>
                             </li>
-                            <li class="m-0"><a target="_blank" href="https://pandatoto.github.io/"
+                            <li class="m-0"><a target="_blank" href="https://panda-toto.github.io/"
                                     title="pandatoto Affiliates">pandatoto Affiliates</a>
                             </li>
                             
@@ -943,24 +943,24 @@ box-shadow: 0px 0px 3px #fff;
                         </div>
                         <hr>
                        <ul class="mb-0">
-                                                        <li><a href="https://pandatoto.github.io/"
+                                                        <li><a href="https://panda-toto.github.io/"
                                     title="MEDAN">MACAU</a></li>
-                                                        <li><a href="https://pandatoto.github.io/"
+                                                        <li><a href="https://panda-toto.github.io/"
                                     title="JAKARTA">HONGKONG</a></li>
-                                                        <li><a href="https://pandatoto.github.io/"
+                                                        <li><a href="https://panda-toto.github.io/"
                                     title="BEKASI">SGP</a></li>
-                                                        <li><a href="https://pandatoto.github.io/"
+                                                        <li><a href="https://panda-toto.github.io/"
                                     title="KABAN JAHE">SDY</a></li>
-                                                        <li><a href="https://pandatoto.github.io/"
+                                                        <li><a href="https://panda-toto.github.io/"
                                     title="BERASTAGI">TAIWAN</a></li>
-                                                        <li><a href="https://pandatoto.github.io/"
+                                                        <li><a href="https://panda-toto.github.io/"
                                     title="JERMAL">JAPAN</a></li>
-                                                        <li><a href="https://pandatoto.github.io/"
+                                                        <li><a href="https://panda-toto.github.io/"
                                     title="KAMPUNG KUBUR">LIBANON</a></li>
-                                                        <li><a href="https://pandatoto.github.io/"
+                                                        <li><a href="https://panda-toto.github.io/"
                                     title="POLONIA">JAKARTA</a></li>
                                                     </ul>  
-                        <a href="https://pandatoto.github.io/" class="view_more_cities text-dark"
+                        <a href="https://panda-toto.github.io/" class="view_more_cities text-dark"
                         title="View more cities">View More Cities <i
                             class="fa-solid fa-angle-right"></i></a>   
                     </div>
@@ -976,7 +976,7 @@ box-shadow: 0px 0px 3px #fff;
                                     href="https://ubys.us/apps/?type=apps&utm_source=inhd-ubapp&utm_medium=ubuy-website-abroad&utm_term=bottom-icon&utm_campaign=app-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a><a class="play-store d-none m-0"
                                     aria-label="Play Store"
-                                    href="https://pandatoto.github.io/&referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
+                                    href="https://panda-toto.github.io/&referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a>
                             </div>
                         </div>
@@ -993,7 +993,7 @@ box-shadow: 0px 0px 3px #fff;
                             style="font-size: 16px; color: #666; font-weight:bold;">
                             TRUST ENSURED WITH</p>
                         <div class="ftrisoimg_con d-flex gap-4 align-items-center mt-2">
-                            <a href="https://pandatoto.github.io/" title="PCI DSS" target="_blank">
+                            <a href="https://panda-toto.github.io/" title="PCI DSS" target="_blank">
                                 <img width="94" height="36"
                                     src="https://d2ati23fc66y9j.cloudfront.net/ubuycom-v1/images/loading.gif" 
                                     data-src="https://d2ati23fc66y9j.cloudfront.net/ubuycom/assets/v5/images/pci-dss-compliant.svg"
@@ -1018,15 +1018,15 @@ box-shadow: 0px 0px 3px #fff;
                         </div>
                         <div class="col-md-12 col-sm-12 col-lg-6 col-12">
                             <ul class="footer-menu">
-                                <li class="no-content"><a href="https://pandatoto.github.io/"
+                                <li class="no-content"><a href="https://panda-toto.github.io/"
                                         title="Terms & Conditions">Terms & Conditions</a>
                                 </li>
-                                <li><a href="https://pandatoto.github.io/"
+                                <li><a href="https://panda-toto.github.io/"
                                         title="Privacy Policy">Privacy Policy</a>
                                 </li>
-                                <li><a href="https://pandatoto.github.io/"
+                                <li><a href="https://panda-toto.github.io/"
                                         title="About Us">About Us</a></li>
-                                <li><a href="https://pandatoto.github.io/"
+                                <li><a href="https://panda-toto.github.io/"
                                         title="Contact Us">Contact Us</a></li>
                             </ul>
                         </div>
@@ -1034,15 +1034,15 @@ box-shadow: 0px 0px 3px #fff;
                             <div class="followus d-flex justify-content-start">
                                 <span class="mr-5">Follow Us</span>
                                 <div class="social-footer">
-                                    <a href="https://pandatoto.github.io/" title="Facebook" target="_blank"><i
+                                    <a href="https://panda-toto.github.io/" title="Facebook" target="_blank"><i
                                             class="fa-brands fa-facebook-f"></i></a>
-                                    <a href="https://pandatoto.github.io/" title="Instagram"
+                                    <a href="https://panda-toto.github.io/" title="Instagram"
                                         target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="https://pandatoto.github.io/" title="Youtube"
+                                    <a href="https://panda-toto.github.io/" title="Youtube"
                                         target="_blank"><i class="fa-brands fa-youtube"></i></a>
-                                    <a href="https://pandatoto.github.io/" title="Twitter"
+                                    <a href="https://panda-toto.github.io/" title="Twitter"
                                         target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-                                    <a href="https://pandatoto.github.io/" title="Pinterest"
+                                    <a href="https://panda-toto.github.io/" title="Pinterest"
                                         target="_blank"><i class="fa-brands fa-pinterest"></i></a>
                                 </div>
                             </div>
@@ -1115,7 +1115,7 @@ box-shadow: 0px 0px 3px #fff;
     
             function getCartData() {
             jQuery.ajax({
-                url: "https://pandatoto.github.io/",
+                url: "https://panda-toto.github.io/",
                 dataType: 'html',
                 type: 'GET',
                 data: {
@@ -1279,7 +1279,7 @@ box-shadow: 0px 0px 3px #fff;
         }
         if (shop_cat_loader.length > 0) {
             isFetchingCat = jQuery.ajax({
-                url: "https://pandatoto.github.io/",
+                url: "https://panda-toto.github.io/",
                 type: 'GET',
                 data: post_data,
                 dataType: 'html',
@@ -1301,7 +1301,7 @@ box-shadow: 0px 0px 3px #fff;
         exploreGtmEvent("explore_brand", "desktop");
         if (shop_cat_loader.length > 0) {
             isFetchingBrand = jQuery.ajax({
-                url: "https://pandatoto.github.io/",
+                url: "https://panda-toto.github.io/",
                 type: 'GET',
                 data: {
                     s_id: '122',
@@ -1334,7 +1334,7 @@ box-shadow: 0px 0px 3px #fff;
             post_data.current_active_store = 'us';
         }
         isFetchingCat = jQuery.ajax({
-            url: "https://pandatoto.github.io/",
+            url: "https://panda-toto.github.io/",
             type: 'GET',
             data: post_data,
             dataType: 'html',
@@ -1398,7 +1398,7 @@ box-shadow: 0px 0px 3px #fff;
         if (jQuery("#searchRelatedProducts").length > 0) {
             jQuery(document).on('click', '#searchRelatedProducts', function() {
                 if (typeof customEvent === "function") {
-                    var product_url = 'https://pandatoto.github.io/';
+                    var product_url = 'https://panda-toto.github.io/';
                     var ecommerceData = {
                         url: product_url
                     };
@@ -1422,7 +1422,7 @@ box-shadow: 0px 0px 3px #fff;
                     trustpilot: true                }
                 gtm_data = btoa(JSON.stringify(gtm_data));
                 jQuery.ajax({
-                    url: "https://pandatoto.github.io/",
+                    url: "https://panda-toto.github.io/",
                     type: "GET",
                     dataType: "html",
                     headers: {
@@ -1910,14 +1910,14 @@ box-shadow: 0px 0px 3px #fff;
   "@graph": [
     {
       "@type": "Product",
-      "@id": "https://pandatoto.github.io/",
+      "@id": "https://panda-toto.github.io/",
       "name": "Pandatoto – Evolusi dari Peternakan Menuju Teknologi AI",
       "image": [
         "https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775594053/pandatoto_png_v6zy5e.png",
         "https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775594055/PANDATOTO_banner_azhxsz.jpg"
       ],
       "description": "pandatoto Sebagai perusahaan yang bergerak aktif dalam kemajuan industri peternakan, Pandatoto terus mendorong inovasi di sektor pertanian dan peternakan. Kini, kami melangkah lebih jauh dengan memulai pengembangan di bidang industri elektronik dan Artificial Intelligence.",
-      "url": "https://pandatoto.github.io/",
+      "url": "https://panda-toto.github.io/",
       "brand": {
         "@type": "Brand",
         "name": "pandatoto"
@@ -1927,7 +1927,7 @@ box-shadow: 0px 0px 3px #fff;
         "priceCurrency": "IDR",
         "price": "10000",
         "availability": "https://schema.org/InStock",
-        "url": "https://pandatoto.github.io/"
+        "url": "https://panda-toto.github.io/"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -1985,7 +1985,7 @@ box-shadow: 0px 0px 3px #fff;
     "@context": "https://schema.org",
     "@type": "SiteNavigationElement",
     "name": "Pandatoto – Evolusi dari Peternakan Menuju Teknologi AI",
-    "url": "https://pandatoto.github.io/"
+    "url": "https://panda-toto.github.io/"
     }
 </script>
 <script type="application/ld+json">
@@ -1997,49 +1997,49 @@ box-shadow: 0px 0px 3px #fff;
       "@type": "ListItem",
       "position": 1,
       "name": "pandatoto",
-      "item": "https://pandatoto.github.io/"
+      "item": "https://panda-toto.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "pandatoto Macau",
-      "item": "https://pandatoto.github.io/"
+      "item": "https://panda-toto.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Toto Macau",
-      "item": "https://pandatoto.github.io/"
+      "item": "https://panda-toto.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Macau Toto",
-      "item": "https://pandatoto.github.io/"
+      "item": "https://panda-toto.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Macau 4D",
-      "item": "https://pandatoto.github.io/"
+      "item": "https://panda-toto.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "Macau 5D",
-      "item": "https://pandatoto.github.io/"
+      "item": "https://panda-toto.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "Bandar Toto Macau",
-      "item": "https://pandatoto.github.io/"
+      "item": "https://panda-toto.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "Pandatoto – Evolusi dari Peternakan Menuju Teknologi AI",
-      "item": "https://pandatoto.github.io/"
+      "item": "https://panda-toto.github.io/"
     }
   ]
 }
@@ -2053,7 +2053,7 @@ box-shadow: 0px 0px 3px #fff;
   "image": [
     "https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775594055/PANDATOTO_banner_azhxsz.jpg"
   ],
-  "url": "https://pandatoto.github.io/",
+  "url": "https://panda-toto.github.io/",
   "telephone": "+62-813-9865-1256",
   "priceRange": "IDR",
   "address": {
@@ -2166,8 +2166,8 @@ box-shadow: 0px 0px 3px #fff;
                     var uba_current_store = 'us';
                     var uba_current_active_store = 'us';
                                             var uba_customer_url = "https://www.ubuy.com.kh/ubuycom/pages/cft-v1/?s_id=122&type=72&id=73a01cbfac5d2a66db954f1962da1a52";
-                                        var uba_baseurl = "https://pandatoto.github.io/";
-                    var uba_weburl = "https://pandatoto.github.io/";
+                                        var uba_baseurl = "https://panda-toto.github.io/";
+                    var uba_weburl = "https://panda-toto.github.io/";
                     var isDetail = "1";
                     var uba_catId = "";
                     var uba_is_mobile = "0";
